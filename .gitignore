@@ -1,0 +1,15 @@
+.build/
+.swiftpm/
+.cache/
+dist/
+.DS_Store
+
+# Local settings, credentials, and user backups
+.env
+.env.*
+*.pem
+*.p12
+workspace*.json
+拾序工作台备份*.json
+*.xcuserstate
+xcuserdata/
